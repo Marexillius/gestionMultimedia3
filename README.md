@@ -19,7 +19,27 @@ Ces façons de jouer serait de pouvoir utiliser des pièges aléatoire, gagnés 
 À Chaque course gagnée, le joueur gagne une récompense aléatoire, ça peut être un nouveau véhicule (par exemple, un bus) ou un atout (peut être utile, peut être drôle, par exemple, commence la course avec un boost ou contact avec la compétition propulse les deux).
 
 ## Scénario
-
+```mermaid
+flowchart TD
+    A[Veille et Sauvegarde effacée] -->|Interaction produite| B{Menu Principal}
+    B -->|Jouer| D[Choix de véhicule]
+    B -->|Instructions| E[Affiche les instructions]
+    D -->|Commencer| F[Course commence]
+    D -->|Retour| B
+    F --> G[Course continue]
+    G -->|Denrier Tour fini| H[Fin de course]
+    G -->|Pédale| I[Accélère]
+    I --> G
+    G -->|Prend des dégâts| J[Ralenti grandement]
+    J --> I
+    G -->|Attaque un ennemi| N[Ennemi ralenti grandement]
+    N --> G
+    H --> K[Débloque une récompense]
+    K --> M{Menu Récapitulatif de course}
+    M -->|Prochaine Course| F
+    M -->|Fait quitter| B
+    M -->|Fait rien| A
+```
 
 ## Références Sonores
 
