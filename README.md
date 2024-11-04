@@ -67,6 +67,7 @@ flowchart TD
 - [Haut Parleurs](https://images.ctfassets.net/4zjnzn055a4v/1VYmQS2F8SIsBGRFpfTTSN/345f48f9c953239780102787372c0d7b/8040_main_image.jpg)
 - [XLR](https://a.co/d/8WLacF8)
 - [XLR USB](https://a.co/d/cFtaFkM)
+
 ![Volant](./assets/wheel.jpg)
 ![Haut Parleurs](./assets/speaker.jpg)
 ![XLR](./assets/xlr.jpg)
