@@ -42,9 +42,9 @@ flowchart TD
 ```
 
 ## Références Sonores
-[Voiture](https://pixabay.com/fr/sound-effects/race-care-151963/)
-[Countdown du début de course](https://pixabay.com/fr/sound-effects/countdown-27545/)
-[Objet Obtenu](https://pixabay.com/fr/sound-effects/ui-sci-fi-sound-36061/)
+- [Voiture](https://pixabay.com/fr/sound-effects/race-care-151963/)
+- [Countdown du début de course](https://pixabay.com/fr/sound-effects/countdown-27545/)
+- [Objet Obtenu](https://pixabay.com/fr/sound-effects/ui-sci-fi-sound-36061/)
 
 ## Moodboard
 ![Moodboard](./assets/moodboardGameplay.jpg)
@@ -55,13 +55,36 @@ flowchart TD
 ## Illustration des intéractions
 
 
-## Technologies
+## Flux de données
+
+
+## Équipements
 - Vélo Stationnaire
-- Volant
+- [Volant](https://a.co/d/fv0kDNg)
 - Tablette
 - Un bouton
 - Projecteur
-- Haut Parleurs
+- [Haut Parleurs](https://images.ctfassets.net/4zjnzn055a4v/1VYmQS2F8SIsBGRFpfTTSN/345f48f9c953239780102787372c0d7b/8040_main_image.jpg)
+- [XLR](https://a.co/d/8WLacF8)
+- [XLR USB](https://a.co/d/cFtaFkM)
+![Volant](./assets/wheel.jpg)
+![Haut Parleurs](./assets/speaker.jpg)
+![XLR](./assets/xlr.jpg)
+![XLR USB](./assets/xlrusb.jpg)
+
+## Plantation
+[Plantation](./assets/plantation.jpg)
+[Bike](./assets/bike.jpg)
+[Screen](./assets/screen.jpg)
+[TinyScreen](./assets/tinyScreen.jpg)
+[Projector](./assets/projector.jpg)
+[Speaker](./assets/graphSpeaker.jpg)
+
+## Circulation des visiteurs
+L'utilisateur est amené à s'assoir sur le vélo stationnaire et jouer. Une fois terminé, l'utilisateur est invité à descendre du vélo stationnaire et laisser la place à quelqu'un d'autre. 
+
+## Gestion des câblages
+Un point d'alimentation serait simultanément utilisé pour le vélo stationnaire et les haut-parleurs pendant qu'un deuxième point d'alimentation serait utilisé pour le projecteur et l'ordinateur. L'ordinateur serait plugué à la tablette et à l'écran.
 
 ## Logiciels
 ### Production
@@ -69,6 +92,7 @@ flowchart TD
 - Photoshop
 - Visual Studio Community 2022
 - REAPER
+- Arduino IDE
 
 ### Exposé
 - Unity
