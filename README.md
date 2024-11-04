@@ -50,13 +50,17 @@ flowchart TD
 ![Moodboard](./assets/moodboardGameplay.jpg)
 
 ## Scéranimage
+![sceranimage1](./assets/sceranimage1.jpg)
 
+![sceranimage2](./assets/sceranimage2.jpg)
 
 ## Illustration des intéractions
+![interaction1](./assets/interactivite1.jpg)
 
+![interaction2](./assets/interactivite2.jpg)
 
 ## Flux de données
-
+![FluxDonnées](./assets/fluxDonnees.png)
 
 ## Équipements
 - Vélo Stationnaire
@@ -74,12 +78,12 @@ flowchart TD
 ![XLR USB](./assets/xlrusb.jpg)
 
 ## Plantation
-[Plantation](./assets/plantation.jpg)
-[Bike](./assets/bike.jpg)
-[Screen](./assets/screen.jpg)
-[TinyScreen](./assets/tinyScreen.jpg)
-[Projector](./assets/projector.jpg)
-[Speaker](./assets/graphSpeaker.jpg)
+![Plantation](./assets/plantation.jpg)
+![Bike](./assets/bike.jpg)
+![Screen](./assets/screen.jpg)
+![TinyScreen](./assets/tinyScreen.jpg)
+![Projector](./assets/projector.jpg)
+![Speaker](./assets/graphSpeaker.jpg)
 
 ## Circulation des visiteurs
 L'utilisateur est amené à s'assoir sur le vélo stationnaire et jouer. Une fois terminé, l'utilisateur est invité à descendre du vélo stationnaire et laisser la place à quelqu'un d'autre. 
