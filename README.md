@@ -42,7 +42,9 @@ flowchart TD
 ```
 
 ## Références Sonores
-
+[Voiture](https://pixabay.com/fr/sound-effects/race-care-151963/)
+[Countdown du début de course](https://pixabay.com/fr/sound-effects/countdown-27545/)
+[Objet Obtenu](https://pixabay.com/fr/sound-effects/ui-sci-fi-sound-36061/)
 
 ## Moodboard
 ![Moodboard](./assets/moodboardGameplay.jpg)
